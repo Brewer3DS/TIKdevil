@@ -2,6 +2,11 @@
 
 Fastest batch TIKs (eShop TIcKets) maker and installer on the planet, right on your 3DS!
 
+# Installing TIKdevil
+You can install TIKdevil on your 3DS by opening up FBI, Go to Remote Install, Scan QR Code and scan this QR code to install it!
+
+![Screenshot](qrcode.png)
+
 # Features
 - Doesn't anymore rely on encTitleKeys.bin nor any files, direct table parse from that title key site;
 - **Complete revamp, 1 click take-them-all in less than 5 minutes**;

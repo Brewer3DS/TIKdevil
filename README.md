@@ -1,5 +1,4 @@
-# TIKdevil
-
+![Screenshot](banner.png)
 Fastest batch TIKs (eShop TIcKets) maker and installer on the planet, right on your 3DS!
 
 # Installing TIKdevil
